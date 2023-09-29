@@ -1,0 +1,3 @@
+@echo off
+Simple Console Calculator.exe
+pause
